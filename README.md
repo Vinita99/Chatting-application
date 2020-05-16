@@ -7,4 +7,4 @@ Chatting Application is a desktop based application where I established connecti
  
  IDE - netbeans
  
- [](!serverclientchat.JPG)
+ ![](serverclientchat.JPG)
